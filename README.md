@@ -1,1 +1,1 @@
-# demosmcmain
+# SMC
